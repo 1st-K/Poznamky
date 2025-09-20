@@ -1,2 +1,0 @@
-Slabý, zoufalý a poražený se schovává ve svém paláci, bez možnosti uniku či záchrany.
-Napoleon kdysi mocný a slavný, teď jenom skořápka své staré slávy. Sotva se vejde do svého vlastního oblečení a potřebující polštářek aby mu nevyseli nohy jako malému dítěti na vesnici. Kdysi měl všechno a teď už jenom mu dochází čas v jeho přesípacích hodinách, už jenom pár zrnek písku a jeho konec bude nevyhnutelný.
