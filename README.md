@@ -1,4 +1,4 @@
-# Poznamky
+# Poznámky
 
 ## Pravidla
 Pokud chcete přidat vlastní poznámku tak jí dejte do složky s názvem hodiny a učitelem (např. Matematika-SouchovaMarie). 
