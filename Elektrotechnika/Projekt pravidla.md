@@ -1,0 +1,1 @@
+Musíš si zarezervovat
