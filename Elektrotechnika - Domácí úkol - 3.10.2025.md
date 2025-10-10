@@ -31,6 +31,7 @@ $$
 $I$ musí být vždy ampéry
 $V$ je napětí v voltech (V)
 $Q$ je v coulombech
+$Q$ je Náboj
 $t$ musí být v sekundách
 $U$ je protékající proud (napětí?) (V jako volt)
 $W$ je v joulech
