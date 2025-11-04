@@ -5,11 +5,11 @@ $$
 $$
 ---
 $$
-Q = I·t
+Q = I·t ~~|~~ I = \frac{Q}{t}
 $$
 ---
 $$
-W = U·I·t |  U*Q
+W = U·I·t |  U·Q
 $$
 ---
 $$
@@ -17,7 +17,7 @@ I = \frac{P}{U}
 $$
 ---
 $$
-P = \frac{W}{t}
+P = \frac{W}{t}~|~W = \frac{P}{t} ~|~ t=\frac{W}{P}
 $$
 ---
 $$
@@ -53,3 +53,10 @@ $e$ je elementární náboj
     
 
 Hodnota měrného elektrického odporu mědi je 0, 0178 Ωmm2m-1.
+
+---
+
+$$
+1,602 ~·~10 ~=~ 16,02~C
+$$
+---
