@@ -1,7 +1,7 @@
 <style>
 .reveal li { white-space: nowrap; }
 .reveal p, .reveal ul { text-align: left; max-width: 100%; }
-.reveal img { max-height: 65vh; width: 100%; object-fit: contain; margin: 0 !important; }
+.reveal img { max-height: 65vh; width: 100%; object-fit: contain; margin: 0 !important ; }
 </style>
 
 # USA vs Greenland
@@ -16,7 +16,12 @@ In the year 2019 USA demanded control over Greenland. Then in 2025, the demand e
 </div>
 
 ---
+<div>
 
+![[greenland-location-map-min.jpg]]
+
+</div>
+---
 ## 1940: Operation Weserübung
 <div style="display: flex; align-items: center; gap: 20px;">
 <div style="flex: 1;">
@@ -80,7 +85,10 @@ In the year 2019 USA demanded control over Greenland. Then in 2025, the demand e
 
 </div>
 </div>
-
+--
+![[OIP.jpg]]
+--
+![[puttufik.webp]]
 --
 
 ## 1968: Nuclear Crash
