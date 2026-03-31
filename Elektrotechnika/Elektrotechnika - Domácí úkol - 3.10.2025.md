@@ -33,7 +33,7 @@ $V$ je napětí v voltech (V)
 $Q$ je v coulombech a taky je Náboj
 $t$ musí být v sekundách
 $U$ je protékající proud (napětí?) (V jako volt)
-$W$ je v joulech a taky elektrická oráce
+$W$ je v joulech a taky elektrická práce
 $P$ = výkon ($W$) (asi watt)
 $E$ je energie
 $e$ je elementární náboj
